@@ -1,2 +1,3 @@
 # odin-recipes
-Web page practice
+Recipe webpage project
+
