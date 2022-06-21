@@ -1,14 +1,8 @@
-.yellow
-.black{
-    font-size: 28px;
-    font-family: helvetica, 'Times New Roman', sans-serif;
+.avatar.propotioned {
+width: 300px;
+height: auto;
 }
-
-.black{
-    background-color: black;
-    color: white;
-}
-
-.yellow{
-    background-color: yellow;
+.avatar.distorted{
+width: 200px;
+height: 400px;
 }
